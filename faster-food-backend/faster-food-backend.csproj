@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>faster_food_backend</RootNamespace>
+    <UserSecretsId>d4d74a73-e742-456c-8d32-e7d8987bd467</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentResults" Version="2.3.0" />
+  </ItemGroup>
+
+
+</Project>
